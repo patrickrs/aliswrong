@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://patrickrs.github.io/aliswrong/sitemap.xml 
