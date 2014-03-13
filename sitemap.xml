@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://patrickrs.github.io/aliswrong/blog/2014/03/13/new-day/</loc>
+        <loc>http://aliswrong.com/blog/2014/03/13/new-day/</loc>
         <lastmod>2014-03-13T05:05:55+00:00</lastmod>
     </url>
     <url>
-        <loc>http://patrickrs.github.io/aliswrong/</loc>
+        <loc>http://aliswrong.com/</loc>
         <lastmod>2014-03-13T05:05:55+00:00</lastmod>
     </url>
     <url>
-        <loc>http://patrickrs.github.io/aliswrong/blog/archives/</loc>
+        <loc>http://aliswrong.com/blog/archives/</loc>
         <lastmod>2014-03-13T05:05:55+00:00</lastmod>
     </url>
     <url>
-        <loc>http://patrickrs.github.io/aliswrong/robots.txt</loc>
+        <loc>http://aliswrong.com/robots.txt</loc>
         <lastmod>2014-03-13T04:21:32+00:00</lastmod>
     </url>
 </urlset>
