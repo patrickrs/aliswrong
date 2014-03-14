@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Who left the light on?"
+date: 2014-03-14 01:52:45 +0000
+comments: true
+categories: lifestyle
+---
+My life is great. I have a beautiful and caring wife. We have a daughter who is amusing, loving, and energetic. We even have the quintessential dog. Its a great life except for one thing: I'm missing out on it.
+
+I don't want to but I don't know any other way. It started for me, the missing out that is, at the age of 13. It was at this age and the end of the school year that marked my first summer job. From then and up until now, I have held a job or gone to school or both.  I have only stopped a handful of times -- my wedding, my daughters birth, and the occasional long weekend. All told, I have worked for almost 20 years and have taken even fewer weeks of vacation.
+
+My first job was intended to instill a sense of responsibility into a rambunctious kid. While it did so, it also had an unforetold and unintended affect. You see, my first job was not just a first job. Instead, it was the job that marked the beginning of my job career. From the day I stepped into my first bosses office and every day forward, I would now be part of the workforce. In the beggining, it would only be my summers but, when I was legally allowed to work after school, I did so, and my summers, marked by a full-time status and bit more cash in my pocket, became nothing more than a preview of adult life. The sense of responsiblity that I was supposed to obtain was obtained but, as a kid that wanted to prove I was worth something, that same sense of responsibility was placed into overdrive. Worse, it had supplanted something of greater value: _the enjoyment of life_.
+
+From that day forward, my life would always be filled by work. Whether it be in the traditional sense or by my own creation, I had an insatiable need to work. Each college quarter, I would structure my class schedule in a way that would allow me to continue to work full time. I naively thought that after college, I would be able to relax and start enjoying life. Little did I realize that starting a salaried job meant that I was no longer limited to labor laws dictating maximum work hours. There was no longer an invisible hand to tell me to stop; to tell me that I've done enough. It was up to me and I had no notion of what enough was.
+
+Nights were wasted and weekends blurred into weekdays. There were brief periods of calm but they never lasted much. I would console my wife and tell her that it was only temporary. That in a few weeks I will finish the large project I was working on and things will be "normal" again. While I believed every word I spoke at the time, I know now that they were not true. There was always going to be work to be done and I was always willing to do it.
+
+There have been many times where I've tried to change and find the mythical work life balance. I've switched jobs thinking that it was the job to blame. Only to find the same thing a few weeks in at the new job. I've worked less hours but the extra time I gained was simply replaced with lofty and even more time consuming side projects. Most recently, I've moved my entire family accross several states in an attempt to find some sort of balance and within a few months I've already regressed to my old self. No matter what I try, I lay victim to my self and to my own anxiety. An anxiety unrationally fed by the fear of not doing enough.
+
+Between this year and last, I've been sick more than I've been healthy. My daughter is almost two and so far my attendance record could be best described in large red lettering as <span style="color:red; text-transform: uppercase">chronic absence</span>. My wife's good qualities are wearing thin. Even the dog gives me the occasional look of dissapointment. Something has to change, and frankly, I'm tired.
+
+Do I know what I'm going to do? Not really. I don't have a plan but I do have a first step: I'm taking a vacation. Not a week, not even two weeks but a real vacation. A vacation where I can relax, a vacation where I can think and dream, and a vacation where I can spend time to be with those I love. I think the time has come (probably came a long time ago) for me to turn out the lights, pack up my bag, and go home. I've done enough. My family needs me and I need them.
